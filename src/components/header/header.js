@@ -16,7 +16,7 @@ export default function Header(props) {
             </svg>
         </>
     )
-    
+
     return (
         <>
             <HeaderContainer>
